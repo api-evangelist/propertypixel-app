@@ -1,4 +1,4 @@
-# propertypixel-app
+# PropertyPixel
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,158 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-propertypixel-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://propertypixel.app/
+PropertyPixel provides AI-powered real estate photo editing and virtual staging services. Their platform lets users quickly enhance property images, remove clutter, adjust lighting, and generate virtual staging, video tours, and 3D walkthroughs. The service offers a free trial with five edits and aims to streamline real estate marketing by delivering high‑quality visuals in under a minute per photo.
+
+**Areas:** RealEstate · AI · PhotoEditing · VirtualStaging · Marketing
+
+## PropertyPixel on APIs.io
+
+Everything profiled for PropertyPixel is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/propertypixel-app/](https://apis.io/providers/propertypixel-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [PropertyPixel Account API](https://apis.io/apis/propertypixel-app/propertypixel-app-account-api/) — The workspace this credential is connected to, its plan and credit balance.
+- [PropertyPixel Downloads API](https://apis.io/apis/propertypixel-app/propertypixel-app-downloads-api/) — Signed download links and zip archives.
+- [PropertyPixel Edit options API](https://apis.io/apis/propertypixel-app/propertypixel-app-edit-options-api/) — The enhancement types and design styles you can request.
+- [PropertyPixel Editing API](https://apis.io/apis/propertypixel-app/propertypixel-app-editing-api/) — Photo enhancement and virtual staging. Spends credits.
+- [PropertyPixel Jobs API](https://apis.io/apis/propertypixel-app/propertypixel-app-jobs-api/) — Status, results and picks of enhancement and staging jobs.
+- [PropertyPixel Listing videos API](https://apis.io/apis/propertypixel-app/propertypixel-app-listing-videos-api/) — Listing videos made from a project's photos: create a free draft, edit it, generate AI video clips (spends credits) and render MP4 files to download.
+- [PropertyPixel Photos API](https://apis.io/apis/propertypixel-app/propertypixel-app-photos-api/) — Source photos in a project.
+- [PropertyPixel Projects API](https://apis.io/apis/propertypixel-app/propertypixel-app-projects-api/) — Properties. Each project holds the photos and results for one listing.
+- [PropertyPixel Quotes API](https://apis.io/apis/propertypixel-app/propertypixel-app-quotes-api/) — Price a spending request before running it.
+- [PropertyPixel Recommendations API](https://apis.io/apis/propertypixel-app/propertypixel-app-recommendations-api/) — Suggested edits for each photo (free), and applying them (spends credits).
+- [PropertyPixel Uploads API](https://apis.io/apis/propertypixel-app/propertypixel-app-uploads-api/) — Signed uploads from a script, and no-login upload links for a phone.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Propertypixel App Webhooks](https://apis.io/asyncapis/propertypixel-app/propertypixel-app-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [PropertyPixel Agentic Access](https://apis.io/agentic-access/propertypixel-app/propertypixel-app-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Account](https://apis.io/schemas/propertypixel-app/propertypixel-app-account/)
+- [Job](https://apis.io/schemas/propertypixel-app/propertypixel-app-job/)
+- [ListingVideo](https://apis.io/schemas/propertypixel-app/propertypixel-app-listing-video/)
+- [ListingVideoChange](https://apis.io/schemas/propertypixel-app/propertypixel-app-listing-video-change/)
+- [ListingVideoEditOp](https://apis.io/schemas/propertypixel-app/propertypixel-app-listing-video-edit-op/)
+- [ProjectDetail](https://apis.io/schemas/propertypixel-app/propertypixel-app-project-detail/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Propertypixel App Context](https://apis.io/jsonld/propertypixel-app/propertypixel-app-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [PropertyPixel API Rules](https://apis.io/rules/propertypixel-app/propertypixel-app-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [PropertyPixel Authentication](https://apis.io/security/propertypixel-app/propertypixel-app-authentication/)
+- [PropertyPixel Domain Security](https://apis.io/security/propertypixel-app/propertypixel-app-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [PropertyPixel Scopes](https://apis.io/scopes/propertypixel-app/propertypixel-app-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [PropertyPixel Plans Pricing](https://apis.io/plans/propertypixel-app/propertypixel-app-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [PropertyPixel Rate Limits](https://apis.io/rate-limits/propertypixel-app/propertypixel-app-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://propertypixel.app/)
+- [Documentation](https://propertypixel.app/mcp)
+- [Getting started](https://docs.propertypixel.app/docs/quickstart/chatgpt)
+- [API reference](https://docs.propertypixel.app/docs/api)
+- [Pricing](https://propertypixel.app/pricing)
+- [Changelog](https://docs.propertypixel.app/docs/changelog)
+- [Blog](https://propertypixel.app/blog)
+- [Terms of service](https://propertypixel.app/terms)
+- [Privacy policy](https://propertypixel.app/privacy)
+
+## API Evangelist rating
+
+**Kin Score 63.4** — strong · rubric 0.28.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 67.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 38.6 |
+| Developer ergonomics | 58.8 |
+| Access clarity | 59.1 |
+
+**Agent readiness 52.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | documented (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/propertypixel-app/](https://apis.io/providers/propertypixel-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for PropertyPixel: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/propertypixel-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
